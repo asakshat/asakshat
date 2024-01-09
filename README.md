@@ -1,6 +1,6 @@
 ### 👋 Hi there , I'm Sakshat.
 
-🌏 Current [Portfolio Website](https://sakshat-adhikari.netlify.app/) <br>
+🌏 Current [Portfolio Website](https://sakshat-portfolio.netlify.app/) <br>
 
 🧑‍💻 Currently studying **React** and building projects with **Laravel**<br> 
 
