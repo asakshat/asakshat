@@ -2,7 +2,7 @@
 
 🌏 Current [Portfolio Website](https://sakshat-portfolio.netlify.app/) <br>
 
-🧑‍💻 Currently studying **React** and building projects with **Laravel**<br> 
+🧑‍💻 Currently studying and building projects with **Golang**<br> 
 
 > Guilty of spending more time customizing my terminal and code editior than programming.
 
