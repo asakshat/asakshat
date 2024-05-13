@@ -9,7 +9,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=asakshat)]<br/> 
+![](github-readme-stats-kappa-two-61.vercel.app/api?username=asakshat)]<br/> 
 
  
 # 💻 Tech Stack
