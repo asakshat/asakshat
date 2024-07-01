@@ -11,8 +11,7 @@
 
 > Guilty of spending more time customizing my terminal, code editior and linux than programming.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asakshat&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asakshat&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 
  
