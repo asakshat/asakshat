@@ -4,7 +4,7 @@
 
 🧑‍💻 Currently studying and building projects with **Golang**<br> 
 
-> Guilty of spending more time customizing my terminal and code editior than programming.
+> Guilty of spending more time customizing my terminal, code editior and linux than programming.
 
 
 
