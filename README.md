@@ -11,8 +11,7 @@
 
 > Guilty of spending more time customizing my terminal, code editior and linux than programming.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asakshat&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=asakshat&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats-kappa-two-61.vercel.app/api?username=asakshat&show_icons=true&theme=radical)<br/> 
 
