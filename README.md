@@ -8,7 +8,6 @@
 🌏 Current [Portfolio Website](https://sakshat-portfolio.netlify.app/) <br>
 
 🧑‍💻 Currently studying and building projects with **Golang**<br> 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 > Guilty of spending more time customizing my terminal, code editior and linux than programming.
 
