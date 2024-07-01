@@ -1,3 +1,7 @@
+
+<div id="header" align="center">
+  <img src="https://adaickalavan.github.io/assets/images/gophercises_lifting.jpg" width="100"/>
+</div>
 ### 👋 Hi there , I'm Sakshat.
 
 🌏 Current [Portfolio Website](https://sakshat-portfolio.netlify.app/) <br>
@@ -11,9 +15,6 @@
 
 ![](https://github-readme-stats-kappa-two-61.vercel.app/api?username=asakshat&show_icons=true&theme=radical)<br/> 
 
-<div id="header" align="center">
-  <img src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=3840&q=75" width="100"/>
-</div>
 
  
 # 💻 Tech Stack
