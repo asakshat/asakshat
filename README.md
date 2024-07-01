@@ -11,8 +11,9 @@
 
 > Guilty of spending more time customizing my terminal, code editior and linux than programming.
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asakshat&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 
+
+![](https://github-readme-stats-kappa-two-61.vercel.app/api?username=asakshat&show_icons=true&theme=radical)<br/> 
 
  
 ### :hammer_and_wrench: Languages and Tools :
