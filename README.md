@@ -13,7 +13,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asakshat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats-kappa-two-61.vercel.app/api?username=asakshat&show_icons=true&theme=radical)<br/> 
+
  
 ### :hammer_and_wrench: Languages and Tools :
 
