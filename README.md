@@ -9,7 +9,7 @@
 
   🧑‍💻 Currently studying and building projects with **Golang**<br> 
 
-  <span style="color: #808080;">Guilty of spending more time customizing my terminal, code editor, and Linux than programming.</span>
+Guilty of spending more time customizing my terminal, code editor, and Linux than programming.
   
   ![](https://github-readme-stats-kappa-two-61.vercel.app/api?username=asakshat&show_icons=true&theme=tokyonight)<br/> 
 
