@@ -13,7 +13,7 @@
 
 
 
-![](https://github-readme-stats-kappa-two-61.vercel.app/api?username=asakshat&show_icons=true&theme=radical)<br/> 
+![](https://github-readme-stats-kappa-two-61.vercel.app/api?username=asakshat&show_icons=true&theme=tokyonight)<br/> 
 
  
 ### :hammer_and_wrench: Languages and Tools :
