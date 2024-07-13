@@ -5,7 +5,7 @@
 
   ### 👋 Hi there, I'm Sakshat.
 
-  🌏 Current [Portfolio Website](https://sakshat-portfolio.netlify.app/) <br>
+  🌏 Current [Portfolio Website](https://asakshat.ninja/) <br>
 
   🧑‍💻 Currently studying and building projects with **Golang**<br> 
   📜 My current linux [dotfiles](https://github.com/asakshat/arch-dotfiles/tree/main) <br>
