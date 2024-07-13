@@ -8,6 +8,7 @@
   🌏 Current [Portfolio Website](https://sakshat-portfolio.netlify.app/) <br>
 
   🧑‍💻 Currently studying and building projects with **Golang**<br> 
+     My current linux [dotfiles](https://github.com/asakshat/arch-dotfiles/tree/main) <br>
 
 Guilty of spending more time customizing my terminal, code editor, and Linux than programming.
   
